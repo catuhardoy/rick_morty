@@ -1,0 +1,27 @@
+/* @font-face {
+    font-family: rick_morty;
+    src: url("../../get_schwifty.ttf");
+} */
+
+.fondo{
+
+color: yellowgreen;
+font-weight: 400;
+font-weight: 150;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+}
+
+.button{
+    background-color: yellowgreen;
+    color:black;
+    font-weight: 200;
+    font-size: 25px;
+    size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.error{ 
+    color: red
+}
